@@ -1,0 +1,15 @@
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\bin\Debug\net6.0\HW_Array.exe
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\bin\Debug\net6.0\HW_Array.deps.json
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\bin\Debug\net6.0\HW_Array.runtimeconfig.json
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\bin\Debug\net6.0\HW_Array.dll
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\bin\Debug\net6.0\HW_Array.pdb
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.csproj.AssemblyReference.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.AssemblyInfoInputs.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.AssemblyInfo.cs
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.csproj.CoreCompileInputs.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.dll
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\refint\HW_Array.dll
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.pdb
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\HW_Array.genruntimeconfig.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\HW_Array\obj\Debug\net6.0\ref\HW_Array.dll
