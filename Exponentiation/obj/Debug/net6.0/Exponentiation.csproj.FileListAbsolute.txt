@@ -1,0 +1,15 @@
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.csproj.AssemblyReference.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.AssemblyInfoInputs.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.AssemblyInfo.cs
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.csproj.CoreCompileInputs.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\bin\Debug\net6.0\Exponentiation.exe
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\bin\Debug\net6.0\Exponentiation.deps.json
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\bin\Debug\net6.0\Exponentiation.runtimeconfig.json
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\bin\Debug\net6.0\Exponentiation.dll
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\bin\Debug\net6.0\Exponentiation.pdb
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.dll
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\refint\Exponentiation.dll
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.pdb
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\Exponentiation.genruntimeconfig.cache
+C:\Users\Innovations Solution\Desktop\Seminar_C#4\Exponentiation\obj\Debug\net6.0\ref\Exponentiation.dll
